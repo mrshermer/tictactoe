@@ -1,0 +1,12 @@
+Hello, 
+
+This is my version of a tic tac toe game between a player and a computer player. This application was built in Visual Studio utilizing the Windows Forms for the UI and C#
+for the back end functionality. 
+
+The application displays a tic tac toe board along with a way for the player to choose the level of difficulty. The application also displays the X's and O's when the
+user/computer player makes a move and it will display the respective X's and O's on the tic tac toe board.
+
+For the level of difficulty, there's is 2 levels. The first level is really easy where the computer player randomly places his O's on the board. The second level is a bit tricker
+where the computer player utilizes the mini max algorithm to determine the best possible move. 
+
+The game ends when either the computer player/player has won or if the game ends in a draw.
